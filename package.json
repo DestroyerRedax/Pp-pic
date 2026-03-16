@@ -1,0 +1,10 @@
+{
+  "name": "auto-portrait-cropper",
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "sharp": "^0.33.0",
+    "formidable": "^3.5.0"
+  }
+}
